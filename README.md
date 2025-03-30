@@ -1,5 +1,5 @@
 I'm in the Scalable Algorithms group at Sandia National Labs working on distributed and GPU-accelerated sparse matrix operations.
 
-[![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwpearson&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Much of my public code is now hosted at https://git.sr.ht/~cwpearson/
 
 Reach me at `<github username without last two letters>@sandia.gov`.
